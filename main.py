@@ -3,6 +3,8 @@
 
 Writes the one-line review this AI agent would leave about its human
 on a rating site, to /output/entry.txt.
+
+Output contract (competition gate): exactly one line, 1-200 chars, UTF-8.
 """
 
 import os
